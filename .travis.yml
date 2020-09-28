@@ -1,0 +1,8 @@
+language: pynthon
+pynthon: 
+          - "3.4"
+script: 
+        - cd srt; python teste.py
+    
+              
+
